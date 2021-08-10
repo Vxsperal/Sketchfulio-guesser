@@ -1,5 +1,5 @@
 # Sketchfulio-and-Skriblio-guesser
-Simple script made in python using selenium to guess the default wordlist in sketchful.io
+Simple script made in python using selenium to guess the default wordlist in sketchful.io. Works for skribblio too.
 
 INSTALLATION:
 - For the installation of the program make sure your using python 3 with selenium installed.
