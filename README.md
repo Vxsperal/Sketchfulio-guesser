@@ -3,8 +3,9 @@ Simple script made in python using selenium to guess the default wordlist in ske
 
 INSTALLATION:
 - For the installation of the program make sure your using python 3 with selenium installed.
-- Make sure you have firfox installed and install the correct version of geckodriver for your version of firefox.
-- Then save the geckdriver in the mozilla directory for the program locate the driver.
+- also install the text file as the program guesses using it. Note if you rename the txt file please rename fix the code on line 89 and 101 
+- Make sure you have firefox installed and install the correct version of geckodriver for your version of firefox.
+- Then save the geckdriver in the mozilla firefox directory for the program locate the driver.
 
 That's it enjoy the use of the script and please feel free to commit your improvements or discovering any bugs
 
